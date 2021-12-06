@@ -7,11 +7,11 @@
 
 <!--All Compatible Emoji => https://www.webfx.com/tools/emoji-cheat-sheet/ -->
 
-- 🔭 I’m currently working on [Watch List](https://github.com/Epstei46/foundations-capstone-project)
+- 🔭 I’m currently working on [a personal Watch List](https://github.com/Epstei46/foundations-capstone-project)
 
 - 🌱 I’m currently learning **about Data Solutions (SQL) through Perficient Bright Paths Program**
 
-<!-- - 👨‍💻 All of my projects are available at [http://stillNeedToCreatePortfolioWebsite.com/](http://stillNeedToCreatePortfolioWebsite.com/) -->
+- 👨‍💻 All of my projects are available at [my Portfolio page](Epstei46.github.io)
 
 <!-- - 📄 Know about my experiences [http://resumeLinkSomehow.com](http://resumeLinkSomehow.com) -->
 
