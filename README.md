@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **about Data Solutions (SQL) through Perficient Bright Paths Program**
 
-- 👨‍💻 All of my projects are available at [my Portfolio page](Epstei46.github.io)
+- 👨‍💻 All of my projects are available at [my Portfolio page](https://Epstei46.github.io)
 
 <!-- - 📄 Know about my experiences [http://resumeLinkSomehow.com](http://resumeLinkSomehow.com) -->
 
